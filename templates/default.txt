@@ -1,0 +1,37 @@
+# Temporary Files & Logs
+/cache
+/FancyAnalytics
+/libraries
+/logs
+/resource_world
+/versions
+/world
+/world_nether
+/world_the_end
+/oneblock_world
+/oneblock_world_nether
+/oneblock_world_the_end
+/bskyblock_world
+/bskyblock_world_nether
+/bskyblock_world_the_end
+/spawn_nether
+/spawn_the_end
+/*.json
+/plugins/.paper-remapped
+/plugins/*/lib
+/plugins/*/libs
+/plugins/*/libraries
+/plugins/*/tmp
+
+# Playerdata
+/plugins/CoreProtect/database.db
+/plugins/AxVaults/data.mv.db
+/plugins/AdvancedBan/data
+/plugins/BetterTeams/teamInfo
+/plugins/DeluxeTags/userdata
+/plugins/EconomyShopGUI/cache
+/plugins/EconomyShopGUI/transactions
+/plugins/Essentials/userdata
+/plugins/ExcellentCrates/openings.log
+/plugins/PlayerPoints/playerpoints.db
+/plugins/PluginUpdater/downloads.log
